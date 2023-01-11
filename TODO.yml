@@ -1,7 +1,8 @@
 Tochi:
-  Tasks : 
+  Tasks:
     - Set up dev environment best practices
 
-Emeka : 
-  Tasks : 
+Emeka:
+  Tasks:
     - Write basic routes
+    - Implement Login Screen
