@@ -1,0 +1,11 @@
+{
+    "devDependencies": {
+        "eslint": "^8.31.0",
+        "husky": "^8.0.3",
+        "prettier": "^2.8.2"
+    },
+    "scripts": {
+        "prepare": "husky install",
+        "prettier": "prettier --write ."
+    }
+}
