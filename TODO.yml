@@ -1,10 +1,10 @@
 Tochi:
-  Tasks : 
-    - Set up dev environment best practices
+    Tasks:
+        - Set up dev environment best practices
 
-Emeka : 
-  Tasks : 
-    - Handle Authentication with JWT tokens
+Emeka:
+    Tasks:
+        - Handle Authentication with JWT tokens
 
-Features : 
-  - 
+Features:
+    -
