@@ -19,5 +19,5 @@
             { "args": "after-used", "argsIgnorePattern": "^_" }
         ]
     },
-    "ignorePatterns": ["node_modules/"]
+    "ignorePatterns": ["node_modules/", "client/"]
 }
