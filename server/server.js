@@ -10,7 +10,7 @@ app.use(cors({
   origin: '*'
 }))
 
-// dbConnection()
+dbConnection()
 
 app.use(express.json())
 
