@@ -1,10 +1,10 @@
-import * as React from "react";
-import { NavigationContainer } from "@react-navigation/native";
+import * as React from "react"
+import { NavigationContainer } from "@react-navigation/native"
 
-import OnBoard from "../components/auth/OnBoard";
+import OnBoard from "../components/auth/OnBoard"
 
 const RootNavigator = () => {
-  return <NavigationContainer></NavigationContainer>;
-};
+    return <NavigationContainer></NavigationContainer>
+}
 
-export default RootNavigator;
+export default RootNavigator
